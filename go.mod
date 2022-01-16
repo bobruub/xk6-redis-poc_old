@@ -1,4 +1,4 @@
-module github.com/dgzlopes/xk6-redis
+module github.com/bobruub/xk6-redis-poc
 
 go 1.15
 
